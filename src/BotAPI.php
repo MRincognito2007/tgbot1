@@ -24,7 +24,7 @@ class BotAPI
 {
     public function __construct($token)
     {
-        $this->token = $token;
+        $this->1189090863:AAHeiXBEx5_yJCsH-z_3RUXEpHKcQCYAYrE = $token;
     }
 
     public function __call($name, $args)
