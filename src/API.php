@@ -24,8 +24,8 @@ class API
 {
     public function __construct($botToken, $SnapeBot)
     {
-        $this->botToken = $botToken;
-        $this->SnapeBot = $SnapeBot;
+        $this->1189090863:AAHeiXBEx5_yJCsH-z_3RUXEpHKcQCYAYrE = $botToken;
+        $this->ithacker_shop_bot = $SnapeBot;
         $this->jsonPayload = true;
     }
 
