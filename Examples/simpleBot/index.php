@@ -34,6 +34,6 @@ $settings = [
 
 $update = json_decode(file_get_contents('php://input'), true);
 
-$bot = new \neneone\SnapeBot\SnapeBot('Bot Token', $update, $settings);
+$bot = new \neneone\SnapeBot\SnapeBot('1189090863:AAHeiXBEx5_yJCsH-z_3RUXEpHKcQCYAYrE', $update, $settings);
 
 require __DIR__.'/botCommands.php';
